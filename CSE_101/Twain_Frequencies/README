@@ -1,0 +1,35 @@
+This is one of the assignments for CSE 101 taken at UCSC on Fall 2020
+with professor Sheshadri Comandur.
+
+This assignment is on a frequency analysis of Mark Twain's texts. The main CS objective is to understand
+how to code and use linked lists.
+
+This project is intended for a Unix like enviroment, with a gcc compiler installed.
+
+Solution is written by Nicolas Ayala.
+
+
+COMMANDS
+--------
+
+./checkcode.sh     This tests the solution to the problem posed in hw_twain.pdf/hw_twain.txt
+
+
+FOLDERS PRESENT
+---------------
+
+RoboGrader         Contains the testing code                    written by Comandur
+
+Twain              Contains the solution code                   written by Ayala
+
+
+FILES PRESENT
+-------------
+
+checkcode.sh       Script for running testing code              written by Comandur
+
+hw_twain.pdf     |
+                 |-Assignment description                       written by Comandur
+hw_twain.txt     |
+
+TwainStudent.log   Results of grading tests, scored out of 10   written by Comandur 

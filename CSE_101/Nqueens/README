@@ -1,0 +1,35 @@
+This is one of the assignments for CSE 101 taken at UCSC on Fall 2020
+with professor Sheshadri Comandur.
+
+This assignment is on solving a classic backtracking problem without using recursion. The main CS objective
+is to understand how to use stacks to simulate recursion.
+
+This project is intended for a Unix like enviroment, with a g++ compiler installed.
+
+Solution is written by Nicolas Ayala.
+
+
+COMMANDS
+--------
+
+./checkcode.sh       This tests the solution to the problem posed in hw_nqueens.pdf/hw_nqueens.txt
+
+
+FOLDERS PRESENT
+---------------
+
+RoboGrader           Contains the testing code                    written by Comandur
+
+NQueens              Contains the solution code                   written by Ayala
+
+
+FILES PRESENT
+-------------
+
+checkcode.sh         Script for running testing code              written by Comandur
+
+hw_nqueens.pdf     |
+                   |-Assignment description                       written by Comandur
+hw_nqueens.txt     |
+
+NQueensStudent.log   Results of grading tests, scored out of 10   written Comandur

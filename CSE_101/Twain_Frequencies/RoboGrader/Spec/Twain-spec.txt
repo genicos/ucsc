@@ -1,0 +1,12 @@
+# Spec file for Twain assignment of CSE101
+#
+#################
+f1: Makefile
+f2: README
+f3: twain-cleaned.txt
+c1: make
+e1: twain
+p1: ./twain
+t1: simple-input.txt
+o1: student-output.txt
+i1: simple-output.txt

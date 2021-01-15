@@ -1,0 +1,19 @@
+Authored by Nicolas Ayala
+
+FILES PRESENT
+-------------
+
+Makefile
+
+wordrange.cpp  - code for word range program
+
+bst.h - header for binary search tree
+
+bst.cpp - code for BST with AVL insert
+
+MAKE COMMANDS
+-------------
+
+make wordrange - creates wordrange executable
+
+make clean - removes object and executable files

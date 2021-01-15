@@ -1,0 +1,31 @@
+HW 1 - Twain's frequency
+
+Nicolas Ayala
+
+PROJECT FILES
+-------------
+
+Makefile
+
+twain.c           | contains main function for twain program
+
+ll.h              | header for linked list ADT
+
+ll.c              | c code for linked list ADT
+
+test-ll.c         | Test program for linked list
+
+twain-cleaned.txt | Words from Mark Twains novels
+
+MAKE COMMANDS
+-------------
+
+make twain          | creates the twain program
+
+make test-ll        | creates the linked list test program
+
+make valtwain       | runs valgrind on twain program
+
+make valtest-ll     | runs valgrind on the linked list test program
+
+make reset-examples | restores simple-input.txt and simple-output.txt

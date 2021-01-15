@@ -1,0 +1,47 @@
+Start with 0.0 points.
+=================================
+Simple input pass
+Passed Tests/simple-input.txt
+
+=============================================
+Score is now
+2.0
+Simple input pass
+Passed Tests/double-input.txt
+
+=============================================
+Score is now
+4.0
+Small set of "a" words input pass
+Passed Tests/onlya-words-input.txt
+
+=============================================
+Score is now
+5.0
+allwords basic input pass
+Passed Tests/allwords-basic-input.txt
+
+=============================================
+Score is now
+7.0
+allwords more input pass
+Passed Tests/allwords-more-input.txt
+
+=============================================
+Score is now
+8.0
+shakespeare range input passes
+Passed Tests/shakespeare-range-input.txt
+
+=============================================
+Score is now
+10.0
+shakespeare really large input passes
+Passed Tests/shakespeare-really-large-input.txt
+
+=============================================
+Score is now
+11.0
+Solution has passed all tests. The ordeal is over, you can take a breath now.
+Final score
+11

@@ -1,0 +1,25 @@
+Nicolas Ayala
+11/6/2020
+
+FILES PRESENT
+------------
+
+nqueens.cpp - HW 2 program
+
+chess.cpp chess.h - Board and queen mechanics
+
+tester.cpp - Tests chess.cpp
+
+Makefile
+
+
+
+MAKE COMMANDS
+-------------
+
+make nqueens  - builds nqueens program
+
+make tester - builds tester program
+
+make clean - cleans object and executable files
+
